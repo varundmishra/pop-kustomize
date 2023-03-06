@@ -28,4 +28,5 @@ images:
 - us-central1-docker.pkg.dev/$PROJECT_ID/pop-stats/pop-stats:${COMMIT_SHA}
 options:
   requestedVerifyOption: VERIFIED
+  logging: CLOUD_LOGGING_ONLY
     
